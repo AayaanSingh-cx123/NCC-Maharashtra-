@@ -1,0 +1,32 @@
+#Logo {
+float: left;
+width: 7%;
+}
+#heading{
+    font-size: 40px;
+    font-weight:bold;
+    padding-top:50%;
+}#Logo1 {
+margin: 0%;
+    width: 7%;
+    }
+    #Logo2 {
+        float: right;
+        width: 10%;
+        }
+.list{
+    list-style: none;
+    z-index: 10;
+    background-color:rgb(116, 114, 15);
+}
+.item{
+    display:inline;
+    padding:5px ;
+    font-size: 17px;
+    font-weight: 600;
+    float:center;
+}
+.item:hover{
+    background-color: rgb(171, 255, 14);
+}
+        
